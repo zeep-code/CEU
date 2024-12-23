@@ -1,3 +1,6 @@
 [submodule "DA2"]
 	path = DA2
 	url = https://github.com/zeep-code/DA2.git
+[submodule "coding_1"]
+	path = coding_1
+	url = https://github.com/zeep-code/coding_1.git
