@@ -14,6 +14,6 @@ This repository is dedicated to learning and experimenting with Docker. It inclu
 1. Install Docker: [Docker Documentation](https://docs.docker.com/get-docker/)
 2. Clone this repository:
    ```bash
-   git clone git@github.com:your-username/docker-playground.git
+   git clone git@github.com:zeep-code/docker-playground.git
    cd docker-playground
 
